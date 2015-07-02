@@ -31,4 +31,4 @@ permalink: /skills/
 
 ### Awards
 
-- **Prêmio Almirante Franco**: Best graduate student oral presentation at OMARSAT Physical Oceanography Simposium, organized by the Brazilian Navy at [IEAPM](http://www.ieapm.mar.mil.br/), Arraial do Cabo, RJ, Brazil, 2009.
+- **Almirante Franco Award**: Best graduate student oral presentation at OMARSAT Physical Oceanography Simposium, organized by the Brazilian Navy at [IEAPM](http://www.ieapm.mar.mil.br/), Arraial do Cabo, RJ, Brazil, 2009.
