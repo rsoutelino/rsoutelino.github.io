@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Submitted or in final editing phase
 
-* __Soutelino, R. G.__ and B. Beamsley: **The influence of the Southland Current on circulation patterns within Pegasus Bay**, *submitted to Australasian Coasts and Ports 2015*.
+* __Soutelino, R. G.__ and B. Beamsley: The influence of the Southland Current on circulation patterns within Pegasus Bay, *submitted to Australasian Coasts and Ports 2015*.
 
 
 ### Peer-reviewed articles
