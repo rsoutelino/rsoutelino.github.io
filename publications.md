@@ -22,3 +22,15 @@ permalink: /publications/
 * __Mahiques, M.M.__; Sousa, S.H.M.; Burone, L.; Nagai, R.H.; Silveira, I.C.A.; Figueira, R.C.L.; Soutelino, R.G.; Ponsoni, L.; Klein, D.A. Radiocarbon geochronology of the sediments of the Sao Paulo Bight (southern Brazilian upper margin). *An. Acad. Bras. Cienc.*, doi:10.1590/S0001-37652011005000028, 2011. [PDF](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0001-37652011000300006&lng=en&nrm=iso&tlng=en)
 
 
+### Other articles
+
+* __Soutelino, R. G.__, Miranda, J. A., Calado, L., Couto, P. P. Captura sinótica de um vórtice de mesoescala da Corrente do Brasil através de dados de XBT coletados por aeronave ao largo de Arraial do Cabo - RJ. *A Ressurgência* (Niterói), v. 7, p. 38, 2013.
+
+* __Soutelino, R.G.__, Calado, L., Pacheco, S. C. C., Lobato, A. F., Miranda, J. A., GODOI, V., PAULA, Ana Cláudia de. SISPRES: reestruturação do software, aumento de resolução espacial e incorporação de novos parâmetros. *A Ressurgência* (Niterói), v. 6, p. 34, 2012.
+
+* __Silveira, I.C.A. da__; Castro, B.M.; Soutelino, R. G. Circulção Oceanica - A Dinâmica das Correntes. *Scientific American Brasil - Coleção Oceanos*, v. 3, p. 24 - 29, 2009. 
+
+* __Cavalcante, M. F.__; Soutelino, R. G. Avaliação do Digilevel. *Anais Hidrográficos*, Rio de Janeiro - DHN, v. TOMOLX, p.68-73, 2003.
+
+
+
