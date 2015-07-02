@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education
-permalink: /education/
+title: Skills
+permalink: /skills/
 ---
 
 ### Computer skills
