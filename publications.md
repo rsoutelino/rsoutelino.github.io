@@ -1,0 +1,24 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+### Submitted or in final editing phase
+
+* __Soutelino, R. G.__ and B. Beamsley: **The influence of the Southland Current on circulation patterns within Pegasus Bay**, *submitted to Australasian Coasts and Ports 2015*.
+
+
+### Peer-reviewed articles
+
+* __Soutelino, R.G.__; Gangopadhyay, A; Silveira, I.C.A. **The roles of vertical shear and topography on the eddy formation near the site of origin of the Brazil Current.**. *Cont. Shelf Res.*, doi:http://dx.doi.org/10.1016/j.csr.2013.10.001, 2013.[PDF](href="http://www.sciencedirect.com/science/article/pii/S0278434313003245)
+
+* __Soutelino, R.G.__, Miranda, J.M. **Um estudo semi-idealizado para avaliar o papel da topografia no processo de ressurgência costeira em Cabo Frio, RJ**. *Bol. Obs. A. R. Lamego.*, doi:http://dx.doi.org/10.5935/2177-4560.20130008, 2013. [PDF](http://www.essentiaeditora.iff.edu.br/index.php/boletim/article/view/2177-4560.20130008/2814)
+
+* __Arruda, W.Z.__, Campos, E.J.D., Zharkov, V., Soutelino, R.G., I.C.A. da Silveira**Events of equatorward translation of the Vitoria Eddy**. *Cont. Shelf Res.*, doi:10.1016/j.csr.2013.05.004, 2013. [PDF](http://www.sciencedirect.com/science/article/pii/S0278434313001519)
+
+* __Soutelino, R.G.__, I.C.A. da Silveira, A. Gangopadhyay, J.A. Miranda. **Is the Brazil Current eddy-dominated to the north of 20S?**. *Geophys. Res. Lett.*, doi:10.1029/2010GL046276, 2011. [PDF](http://onlinelibrary.wiley.com/doi/10.1029/2010GL046276/abstract) 
+
+* __Mahiques, M.M.__; Sousa, S.H.M.; Burone, L.; Nagai, R.H.; Silveira, I.C.A.; Figueira, R.C.L.; Soutelino, R.G.; Ponsoni, L.; Klein, D.A. **Radiocarbon geochronology of the sediments of the Sao Paulo Bight (southern Brazilian upper margin)**. *An. Acad. Bras. Cienc.*, doi:10.1590/S0001-37652011005000028, 2011.[PDF](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0001-37652011000300006&lng=en&nrm=iso&tlng=en)
+
+

@@ -1,0 +1,13 @@
+# Site settings
+title: Rafael Soutelino
+email: rsoutelino@gmail.com
+description: Physical Oceanographer and Modeller, Graduate School  Professor.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rsoutelino.github.io/" # the base hostname & protocol for your site
+paginate: 2
+paginate_path: "/blog/page:num/"
+twitter_username: rsoutelino
+github_username:  rsoutelino
+
+# Build settings
+markdown: kramdown
