@@ -34,6 +34,6 @@ In October 2013 I became an Associate professor at the Graduation Program of the
 
 ### Current position
 
-I'm currently working as a hydrodynamical modeller using ROMS at [MetOcean](http://metocean.co.nz), and also part of a team of developers and maintaners of a multidisciplinary operational system for dissemination of atmospheric and oceanic forecast and hindcast regional high resolution datasets. 
+I'm currently working as Operational System Manage and Hydrodynamical Modeller at [MetOcean Solutions](http://metocean.co.nz). I'm part of a team of developers and maintaners of a multidisciplinary operational system for dissemination of atmospheric and ocean forecast and hindcast regional high resolution datasets. 
 
 
