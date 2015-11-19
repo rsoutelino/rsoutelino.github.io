@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Submitted or in final editing phase
 
-* __Soutelino, R. G.__ and B. Beamsley: The influence of the Southland Current on circulation patterns within Pegasus Bay, *submitted to Australasian Coasts and Ports 2015*.
+* 
 
 
 ### Peer-reviewed articles
@@ -23,6 +23,8 @@ permalink: /publications/
 
 
 ### Other articles
+
+* __Soutelino, R. G.__ and B. Beamsley: The influence of the Southland Current on circulation patterns within Pegasus Bay, *Australasian Coasts and Ports 2015*.
 
 * __Soutelino, R. G.__, Miranda, J. A., Calado, L., Couto, P. P. Captura sinótica de um vórtice de mesoescala da Corrente do Brasil através de dados de XBT coletados por aeronave ao largo de Arraial do Cabo - RJ. *A Ressurgência* (Niterói), v. 7, p. 38, 2013.
 
