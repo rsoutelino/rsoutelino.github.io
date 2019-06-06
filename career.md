@@ -34,6 +34,6 @@ In October 2013 I became an Associate professor at the Graduation Program of the
 
 ### Current position
 
-I'm currently working as Operational System Manager and Hydrodynamical Modeller at [MetOcean Solutions](http://metocean.co.nz). I'm part of a team of developers and maintaners of a multidisciplinary operational system for dissemination of atmospheric and ocean forecast and hindcast regional high resolution datasets. 
+I'm one of the founding directors of [Oceanum](http://oceanum.science). More information about my work experience in [LinkedIn](http://https://www.linkedin.com/in/rafael-soutelino-26ab9b2a/).
 
 
