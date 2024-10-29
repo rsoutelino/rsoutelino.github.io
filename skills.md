@@ -20,8 +20,7 @@ permalink: /skills/
 ### Ocean models and packages
 
 - Regional Ocean Modeling System - [ROMS](http://www.myroms.org)
-- Princeton Ocean Model - [POM](http://www.aos.princeton.edu/WWWPUBLIC/htdocs.pom/)
-- Common Ocean Data Access System - [CODAS](http://currents.soest.hawaii.edu/docs/adcp_doc/index.html)
+
 
 ### Languages
 
