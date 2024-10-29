@@ -24,16 +24,8 @@ Operational oceanography, hydrodynamical modelling and scientific programming ma
 
 - Soutelino, R.G.; Silveira, I.C.A.; Gangopadhyay, A.; Schmidt, A.C.K. Existe uma Corrente do Brasil contínua ao norte da Cadeia Vitória-Trindade? VIII OMARSAT. Arraial do Cabo, RJ - Oct 2009. [Download](../presentations/omarsat2009_soutelino.pdf)
 
-### Teaching
+### Work Experience
 
-During 2009 I was a short term professor at University of the State of Rio de Janeiro ([FAOC-UERJ](http://www.oceanografia.uerj.br)). I was responsible for Data Analysis in Physical Oceanography course for undergraduate students. It was a total of two semesters with 10h/week classes. I was a TA for four semesters at University of São Paulo ([IOUSP](http://www.io.usp.br)) undergraduation courses Dynamical Physical Oceanography, General Circulation and Coastal and Estuarine Physical Oceanography. I also regularly lecture on *Scientific Programming with Python* for graduate and undergraduate levels.  
-
-### Associate Professor
-
-In October 2013 I became an Associate professor at the Graduation Program of the State University of Rio de Janeiro ([FAOC-UERJ](http://www.oceanografia.uerj.br)). I am collaborating with the Data Analysis in Physical Oceanography course and available as an advisor for M.Sc. students. Please access the Graduation website for more information.
-
-### Current position
-
-I'm one of the founding directors of [Oceanum](http://oceanum.science). More information about my work experience in [LinkedIn](http://https://www.linkedin.com/in/rafael-soutelino-26ab9b2a/).
+Check out my work experience on [LinkedIn](https://www.linkedin.com/in/rafael-soutelino-26ab9b2a/).
 
 
